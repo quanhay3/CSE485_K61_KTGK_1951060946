@@ -64,7 +64,7 @@
         <div class="container">
             <div class="row">
               <div class="col-md-12">
-                <h2>Thêm danh bạ nhân viên</h2>
+                <h2>Thêm người hiến máu </h2>
                 <form action="Add.php" method="post">
                   <div class="row mb-3">
                     <label for="txtHoTen" class="col-sm-2 col-form-label">Họ Và Tên</label>

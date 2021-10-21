@@ -74,7 +74,7 @@
         <div class="container">
             <div class="row">
               <div class="col-md-12">
-                <h2>Thêm người hiến máu</h2>
+                <h2>Sửa Thông Tin</h2>
                 <form  method="post">
                 
                   <div class="row mb-3">
